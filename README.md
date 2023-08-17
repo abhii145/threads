@@ -2,7 +2,7 @@
 
 This is a web application that replicates the functionality of an online thread-based platform, allowing users to create, view, and interact with threads. The application is built using React, Next.js, Tailwind CSS, Cleark for authentication, and MongoDB for data storage.
 
-![Thread-Clone Screenshot]![Alt text](image.png)
+![Alt text](image.png)
 
 ## Features
 
